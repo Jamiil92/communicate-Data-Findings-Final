@@ -26,12 +26,11 @@ PISA 2012 data could be found [here](https://www.google.com/url?q=https://www.go
 
 ## Summary of Findings
 
-> From the summary of possession distribution, parents are clearly undecided in posessing more or less Literature, poetry, art, technical reference book, software at home. On the other side, there is a predominance of desk, own room, study place, computer, internet, dictionary, dishwasher, DVD at home.
+From the summary of possession distribution, parents are clearly undecided in posessing more or less Literature, poetry, art, technical reference book, software at home. On the other side, there is a predominance of desk, own room, study place, computer, internet, dictionary, dishwasher, DVD at home.
 
 > Mother and Father are the parents that are majorly at home while Grandparents and Others are not so often in the lives of the students.
 
->The relative grade index (GRADE) was computed to capture between country variation. It indicates whether students are
-at a modal grade in a country (value of 0) or whether they are below or above the modal grade (+x grades, -x grades). 65% of students need their mum at home. 59% of students needs their dads at home. When students are aware of the learning activities they perform well.
+>The relative grade index (GRADE) was computed to capture between country variation. It indicates whether students are at a modal grade in a country (value of 0) or whether they are below or above the modal grade (+x grades, -x grades). 65% of students need their mum at home. 59% of students needs their dads at home. When students are aware of the learning activities they perform well.
 
 >Very few students have some routines in mathematics hence their good grades.
 
