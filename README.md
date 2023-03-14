@@ -26,8 +26,6 @@ PISA 2012 data could be found [here](https://www.google.com/url?q=https://www.go
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
 > From the summary of possession distribution, parents are clearly undecided in posessing more or less Literature, poetry, art, technical reference book, software at home. On the other side, there is a predominance of desk, own room, study place, computer, internet, dictionary, dishwasher, DVD at home.
 
 > Mother and Father are the parents that are majorly at home while Grandparents and Others are not so often in the lives of the students.
@@ -37,7 +35,7 @@ at a modal grade in a country (value of 0) or whether they are below or above th
 
 >Very few students have some routines in mathematics hence their good grades.
 
-## Key Insights for Presentation
+## Key Insights
 
 > Students oecd countries play a role in their grade.
 
